@@ -1,5 +1,5 @@
-URL = "商品連結"
-DRIVER_PATH = "chromedriver.exe"
+URL = "https://www.hongkongdisneyland.com/zh-hk//book/promotion/winter-kcp-stl/winterkcpste"
+DRIVER_PATH = "/branch-heads/4638@{#871}"
 CHROME_PATH = r"--user-data-dir=C:\\<chrome 設定檔路徑>"  # 可透過網址列輸入 chrome://version/ 找到
 
 ### Only for Mac ###
@@ -7,8 +7,8 @@ CHROME_PATH = r"--user-data-dir=C:\\<chrome 設定檔路徑>"  # 可透過網址
 ### Only for Mac (End) ###
 
 # 請注意！以下皆為機密個資，請小心謹慎，勿上傳至公開平台
-ACC = "PChome 登入帳號"
-PWD = "PChome 登入密碼"
+ACC = "54039417"
+PWD = "qa0124568"
 BuyerSSN = "身分證字號"
-BirthYear, BirthMonth, BirthDay = "民國出生年", "月", "日"
-multi_CVV2Num = "信用卡檢查碼（背面三碼）"
+BirthYear, BirthMonth, BirthDay = "2001", "3", "17"
+multi_CVV2Num = "6837"
